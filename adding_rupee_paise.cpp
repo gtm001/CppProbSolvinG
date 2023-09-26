@@ -1,3 +1,5 @@
+//Take two input as Rupee and Paise and then calulate the total amount i.e output.
+
 #include<iostream>
 using namespace std;
 class money
