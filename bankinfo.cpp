@@ -1,5 +1,5 @@
-/*take input as current balance,deposit balance and withdraw balance and give output as
-account detail with the current balance status. */
+/* Take input as current balance,deposit balance and withdraw balance and get 
+account detail with the current balance status as output. */
 #include<iostream>
 #include<string>
 using namespace std;
